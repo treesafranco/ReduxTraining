@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 
 ## Demo
 
-To see a live demo, please visit [Weather App](https://redux-training-add-person.firebaseapp.com/)
+To see a live demo, please visit [Person App](https://redux-training-add-person.firebaseapp.com/)
