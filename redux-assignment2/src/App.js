@@ -1,14 +1,15 @@
 import React, { Component } from 'react';
 
 import Persons from './containers/Persons';
+import './App.css';
 
 class App extends Component {
   render() {
     return (
       <div className="App">
-        <ol>
-          <li>Turn this app into one which does NOT use local state (in components) but instead uses Redux</li>
-        </ol>
+
+          <h3>This is a simple react redux application To add/remove Person</h3>
+    
         <Persons />
       </div>
     );
