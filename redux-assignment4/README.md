@@ -1,1 +1,25 @@
-This is a simple React Counter App which uses Redux library.
+## React-Redux - Counter App
+
+This is a simple React redux counter application
+
+This project is created with [Create React App](https://github.com/facebook/create-react-app).
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm install`
+
+Install all the dependencies
+
+### `npm start`
+
+Runs the app in the development mode.<br>
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.<br>
+You will also see any lint errors in the console.
+
+## Demo
+
+To see a live demo, please visit [Counter App](https://react-redux-counter-app.firebaseapp.com/)
