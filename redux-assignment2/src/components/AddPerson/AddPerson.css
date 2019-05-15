@@ -8,3 +8,8 @@ button {
     border-radius: 2px;
     background: white;
 }
+
+input {
+    padding: 10px;
+    margin-right: 5px;
+}
